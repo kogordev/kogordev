@@ -14,19 +14,19 @@
 
 ---
 
-### :technologist: About Me
+### 👤 About Me
 
 I am a Frontend Developer based in Cairo, Egypt 🇪🇬, actively building robust, frame-less Single Page Applications (SPAs) and transitioning toward Full-Stack Engineering.
 
-* :telescope: **Focusing on:** Native Web Technologies, Vanilla JavaScript (ES6+), Web Components, and Custom Architecture.
-* :target: **Goal:** Mastering Back-End technologies to complete the Full-Stack Engineering path.
-* :zap: **Philosophy:** Understanding how things work under the hood before reaching for frameworks.
-* :mailbox: **Connect with me:** [![Email Badge](https://img.shields.io/badge/Email-19E57F?style=flat-square&logo=gmail&logoColor=white)](mailto:kogordev@gmail.com) 
+* 🔭 **Focusing on:** Native Web Technologies, Vanilla JavaScript (ES6+), Web Components, and Custom Architecture.
+* 🎯 **Goal:** Mastering Back-End technologies to complete the Full-Stack Engineering path.
+* ⚡ **Philosophy:** Understanding how things work under the hood before reaching for frameworks.
+* 📬 **Connect with me:** [![Email Badge](https://img.shields.io/badge/Email-19E57F?style=flat-square&logo=gmail&logoColor=white)](mailto:kogordev@gmail.com) 
   [![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/osamaidris)
 
 ---
 
-### :hammer_and_wrench: Tech Stack
+### 🛠️ Tech Stack
 
 **Languages & Core Web**
 <p>
@@ -48,11 +48,11 @@ I am a Frontend Developer based in Cairo, Egypt 🇪🇬, actively building robu
 
 ---
 
-### :stats_thought: Github Statistics
+### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kogordev&show_icons=true&theme=dark&rank_icon=github&border_radius=8" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kogordev&layout=compact&theme=dark&hide_border=false&border_radius=8" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kogordev&show_icons=true&theme=dark&rank_icon=github&border_radius=8&cache_seconds=1800" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kogordev&layout=compact&theme=dark&border_radius=8&cache_seconds=1800" width="48%" alt="Top Languages" />
 </div>
 
 <br/>
