@@ -51,12 +51,9 @@ I am a Frontend Developer based in Cairo, Egypt 🇪🇬, actively building robu
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kogordev&show_icons=true&theme=dark&rank_icon=github&border_radius=8&cache_seconds=1800" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kogordev&layout=compact&theme=dark&border_radius=8&cache_seconds=1800" width="48%" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kogordev&show_icons=true&theme=dark&rank_icon=github&border_radius=8" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kogordev&layout=compact&theme=dark&border_radius=8" alt="Top Languages" />
+  <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=kogordev&theme=dark&border_radius=8" alt="GitHub Streak" />
 </div>
